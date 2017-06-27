@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        //Cahnge the viewcontroller to test the commit.
         // Do any additional setup after loading the view, typically from a nib.
     }
 

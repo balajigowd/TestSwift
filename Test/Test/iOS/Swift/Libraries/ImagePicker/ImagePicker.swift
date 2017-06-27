@@ -3,7 +3,7 @@
 //  SwiftLabraries
 //
 //  Created by Balaji Goud  on 1/27/17.
-//  Copyright © 2017 RBT. All rights reserved.
+//  Copyright © 2017 BalajiGowd. All rights reserved.
 //
 
 import UIKit
